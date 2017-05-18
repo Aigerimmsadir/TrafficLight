@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\ымуе\ымуе\bin\Debug\ымуе.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\ымуе\ымуе\bin\Debug\ымуе.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ымуе\ымуе\bin\Debug\ымуе.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ымуе\ымуе\obj\Debug\ымуе.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\ымуе\ымуе\obj\Debug\ымуе.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\ымуе\ымуе\obj\Debug\ымуе.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\ымуе\ымуе\obj\Debug\ымуе.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\ымуе\ымуе\obj\Debug\ымуе.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ымуе\ымуе\obj\Debug\ымуе.pdb
